@@ -1,2 +1,2 @@
 # BusReservation
-A Java Bus Reservation Application
+A Bus Reservation System (Java)
